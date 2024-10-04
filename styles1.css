@@ -172,8 +172,8 @@
  /* margin-bottom: 100px;  Ensure space between the grid and the footer } */
 
 .card {
-  height: 400px; /* Fixed height */
-  width: 400px; /* Fixed width to make it a vertical rectangle */
+  height: 300px; /* Fixed height */
+  width: 300px; /* Fixed width to make it a vertical rectangle */
   border-radius: 30px;
   background-size: cover;
   background-position: center;
@@ -243,7 +243,7 @@
 .innertext a{
   text-decoration: none;
   color: white;
-  font-size: 35px;
+  font-size: 25px;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   /* text-transform: uppercase; */
   font-weight: 800;
@@ -304,7 +304,7 @@ footer p {
 }
 
 footer h4 {
-  font-size: 20px;
+  font-size: 10px;
   margin-top: 10px;
   color: #00d9ff; /* Accent color for emphasis */
 }
